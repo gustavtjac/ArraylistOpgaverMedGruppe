@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayListGruppe.iml" filepath="$PROJECT_DIR$/ArrayListGruppe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opgave/opgave.iml" filepath="$PROJECT_DIR$/opgave/opgave.iml" />
     </modules>
   </component>
 </project>
